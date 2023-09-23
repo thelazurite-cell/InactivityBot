@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>InactivityBot</name>
+    </assembly>
+    <members>
+        <member name="T:InactivityBot.ApplicationSettings">
+            <summary>
+            The application settings class.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.ApplicationSettings.Database">
+            <summary>
+             Gets or sets the database connection configuration.
+            </summary>
+        </member>
+        <member name="T:InactivityBot.DatabaseSettings">
+            <summary>
+            The configuration settings for a mongo db database.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.Host">
+            <summary>
+            Gets or sets the database connection host.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.Port">
+            <summary>
+            Gets or sets the database connection port.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.DatabaseName">
+            <summary>
+            Gets or sets the name of the database.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.UsesAuthentication">
+            <summary>
+            Gets or sets a value indicating whether the database requires authentication.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.AuthenticationType">
+            <summary>
+            Gets or sets the authentication type.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.UserName">
+            <summary>
+            Gets or sets the username for authentication.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.Password">
+            <summary>
+            Gets or sets the user password for authentication.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.AllowInsecureTls">
+            <summary>
+            Gets or sets a value indicating whether insecure TLS connections are allowed.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.UseTls">
+            <summary>
+            Gets or sets a value indicating whether TLS should be enabled.
+            </summary>
+        </member>
+        <member name="P:InactivityBot.DatabaseSettings.AuthenticationDatabaseName">
+            <summary>
+            Gets or sets the authentication database name.
+            </summary>
+        </member>
+        <member name="M:InactivityBot.Mongo.MongoManager.GetDtoType(System.String)">
+            <summary>
+            Gets the DTO type from the expected assembly, if it is not marked with the <see cref="T:InactivityBot.Dto.TransferableDataTypeAttribute"/> then we return null
+            </summary>
+            <param name="type">The type requested from the client.</param>
+            <returns>If the dto exists and is marked with the expected attribute, the type is returned. Otherwise the value will be null.</returns>
+        </member>
+        <member name="T:InactivityBot.Program">
+            <summary>
+            The main program class.
+            </summary>
+        </member>
+        <member name="M:InactivityBot.Program.Main(System.String[])">
+            <summary>
+            The main entry point for the application. Starts up an asynchronous pipeline.
+            </summary>
+            <param name="args">The arguments required at startup.</param>
+            <returns>The result of the async action.</returns>
+        </member>
+        <member name="M:InactivityBot.Program.MainAsync">
+            <summary>
+            The asynchronous entry point for the application.
+            </summary>
+            <returns>The result of the async action.</returns>
+        </member>
+    </members>
+</doc>

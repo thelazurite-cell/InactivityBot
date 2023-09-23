@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JytQh7v1ck0Zn5MhI2JbYsbSoyCxFcVaRbQeEz7TMzf1naVctjhiSnsLL0PWFwsosAM4PAuTBJmg+adqekhvLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lara\\source\\repos\\InactivityBot\\InactivityBot.Dto\\InactivityBot.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lara\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Lara\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

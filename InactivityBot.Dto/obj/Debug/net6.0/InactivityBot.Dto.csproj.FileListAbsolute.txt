@@ -1,0 +1,12 @@
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\InactivityBot.Dto.csproj.AssemblyReference.cache
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\InactivityBot.Dto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\InactivityBot.Dto.AssemblyInfoInputs.cache
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\InactivityBot.Dto.AssemblyInfo.cs
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\InactivityBot.Dto.csproj.CoreCompileInputs.cache
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\bin\Debug\net6.0\InactivityBot.Dto.deps.json
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\bin\Debug\net6.0\InactivityBot.Dto.dll
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\bin\Debug\net6.0\InactivityBot.Dto.pdb
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\InactivityBot.Dto.dll
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\refint\InactivityBot.Dto.dll
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\InactivityBot.Dto.pdb
+c:\Users\Lara\source\repos\InactivityBot\InactivityBot.Dto\obj\Debug\net6.0\ref\InactivityBot.Dto.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InactivityBot", "InactivityBot\InactivityBot.csproj", "{64467B6C-8035-44B2-9772-629E04E5A978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InactivityBot.Dto", "InactivityBot.Dto\InactivityBot.Dto.csproj", "{27C3DFD7-EDA0-4E56-BC8C-C99BAC1B049E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64467B6C-8035-44B2-9772-629E04E5A978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64467B6C-8035-44B2-9772-629E04E5A978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64467B6C-8035-44B2-9772-629E04E5A978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64467B6C-8035-44B2-9772-629E04E5A978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C3DFD7-EDA0-4E56-BC8C-C99BAC1B049E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C3DFD7-EDA0-4E56-BC8C-C99BAC1B049E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C3DFD7-EDA0-4E56-BC8C-C99BAC1B049E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C3DFD7-EDA0-4E56-BC8C-C99BAC1B049E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19685AD4-3F9F-4952-9FEF-7D51E74D87B3}
+	EndGlobalSection
+EndGlobal

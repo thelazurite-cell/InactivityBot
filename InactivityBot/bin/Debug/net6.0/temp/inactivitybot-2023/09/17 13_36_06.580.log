@@ -1,0 +1,1 @@
+2023-09-17 13:36:06.5805|Error|{"isSuccess":false,"rowsAffected":0,"results":[],"messages":[{"message":"A problem occurred while trying to find records","errorCode":500,"level":1,"parameters":["Token","Exception has been thrown by the target of an invocation.","Command find failed: command find requires authentication."]}]} | 

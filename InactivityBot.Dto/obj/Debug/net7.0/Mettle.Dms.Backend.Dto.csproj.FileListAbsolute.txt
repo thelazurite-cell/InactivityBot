@@ -1,0 +1,12 @@
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\bin\Debug\net7.0\Mettle.Dms.Backend.Dto.deps.json
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\bin\Debug\net7.0\Mettle.Dms.Backend.Dto.dll
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\bin\Debug\net7.0\Mettle.Dms.Backend.Dto.pdb
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\Mettle.Dms.Backend.Dto.csproj.AssemblyReference.cache
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\Mettle.Dms.Backend.Dto.GeneratedMSBuildEditorConfig.editorconfig
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\Mettle.Dms.Backend.Dto.AssemblyInfoInputs.cache
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\Mettle.Dms.Backend.Dto.AssemblyInfo.cs
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\Mettle.Dms.Backend.Dto.csproj.CoreCompileInputs.cache
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\Mettle.Dms.Backend.Dto.dll
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\refint\Mettle.Dms.Backend.Dto.dll
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\Mettle.Dms.Backend.Dto.pdb
+d:\dev\Code\Mettle.Dms\Mettle.Backend\Mettle.Dms.Backend.Dto\obj\Debug\net7.0\ref\Mettle.Dms.Backend.Dto.dll

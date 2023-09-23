@@ -1,0 +1,53 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP.NET Core service.
+
+version: "3.4"
+
+services:
+  inactivityBot:
+    image: inactivity-bot
+    build:
+      context: .
+      dockerfile: InactivityBot/.dockerfile
+    restart: unless-stopped
+    networks:
+      - dms-network
+    # ports:
+    #   - 5000:5000
+    #   - 5001:5001
+    # environment:
+
+  mongodb:
+    image: mongo:6-jammy
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    # environment:
+      # MONGO_INITDB_ROOT_USERNAME: root
+      # MONGO_INITDB_ROOT_PASSWORD: example
+    volumes:
+      - dbdata6:/data/db
+    networks:
+      - dms-network
+
+  mongo-express:
+    image: mongo-express
+    restart: unless-stopped
+    ports:
+      - 8081:8081
+    environment:
+      # ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      # ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongodb:27017/
+      ME_CONFIG_BASICAUTH_USERNAME: mexpress
+      ME_CONFIG_BASICAUTH_PASSWORD: mexpress
+    # container_name: "mongo-express"
+    networks:
+      - dms-network
+
+volumes:
+  dbdata6:
+
+networks:
+  dms-network:
+    name: dms-network
+    driver: bridge
